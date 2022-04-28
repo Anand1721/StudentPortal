@@ -1,0 +1,61 @@
+.container-admin-tab {
+    position: absolute;
+    top: 1.5rem;
+    left: 18rem;
+    right: 1.5rem;
+    bottom: 1.5rem;
+    background-color: white;
+    overflow-y: hidden;
+}
+
+.add-teacher {
+    margin: 1.5rem;
+    border-left: solid #973535 1px;
+    padding: 1.5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: scroll;
+}
+
+.search-teacher {
+    margin: 1.5rem;
+    border-left: solid #973535 1px;
+    padding: 1.5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: scroll;
+}
+
+.update-teacher {
+    margin: 1.5rem;
+    border-left: solid #973535 1px;
+    padding: 1.5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: scroll;
+}
+
+.remove-teacher {
+    margin: 1.5rem;
+    border-left: solid #973535 1px;
+    padding: 1.5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: scroll;
+}
+
+#last-tab {
+    padding-bottom: 3.7rem;
+}

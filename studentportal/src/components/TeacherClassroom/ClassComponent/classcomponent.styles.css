@@ -1,0 +1,57 @@
+.class-component {
+    padding: 1rem;
+    min-height: 14rem;
+    max-width: 14rem;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.class-component:hover {
+    box-shadow: 6px 6px 10px 0 rgb(0 0 0 / 20%);
+}
+
+.classroom-h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 7rem;
+    background-color: #973535;
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+    padding-left: 1rem;
+    max-height: 3rem;
+    font-weight: normal;
+    width: 12.7rem;
+}
+
+.fac-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.delete {
+    width: 1.2rem;
+    height: 1.2rem;
+    margin-left: 8rem;
+}
+
+.delete:hover {
+    width: 1.3rem;
+    height: 1.3rem;
+}
+
+#u {
+    font-weight: bold;
+}
+
+#fac-label {
+    margin-left: 0.5rem;
+}
+
+#fac-name {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+}

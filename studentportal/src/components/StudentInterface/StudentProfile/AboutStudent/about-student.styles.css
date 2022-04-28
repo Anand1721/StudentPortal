@@ -1,0 +1,55 @@
+.about-student {
+    background-color: white;    
+    box-shadow: 6px 6px 10px 0 rgb(0 0 0 / 20%);
+    width: 83%;
+    padding: 1.5rem;
+    height: 16rem;
+}
+
+.edit-icon {
+    width: 1rem;
+    height: 1rem;
+    cursor: pointer;
+}
+
+.edit-icon:hover {
+    width: 1.1rem;
+    height: 1.1rem;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.edit-about {
+    padding-left: 9rem;
+}
+
+.ta {
+    resize: none;
+}
+
+.normal-p {
+    word-break: break-all;
+    white-space: normal;
+}
+
+.save-icon {
+    width: 1rem;
+    height: 1rem;
+    cursor: pointer;
+}
+
+.save-icon:hover {
+    width: 1.1rem;
+    height: 1.1rem;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+#heading {
+    margin: 0;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    border-bottom: solid 1px #f50057;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

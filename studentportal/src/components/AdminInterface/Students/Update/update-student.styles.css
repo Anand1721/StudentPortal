@@ -1,0 +1,160 @@
+.h5 {
+    padding-bottom: 0.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    margin-bottom: 2rem;
+    border-bottom: solid #973535 1px;
+    color: #973535;
+}
+
+.update-search-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 54%;
+    margin-left: 1.5rem;
+}
+
+.update-basic-details {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}
+
+.update-admission-details {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}
+
+.update-other-details {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}
+
+.update-account-details {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+}
+
+.update-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.update-content-admission {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.update-basic-details input[type='text'] {
+    width: 10rem;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-left: 5rem;
+}
+
+.update-admission-details input[type='text'] {
+    width: 10rem;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-left: 5rem;
+}
+
+.update-other-details input[type='text'] {
+    width: 10rem;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-left: 5rem;
+}
+
+.update-account-details input[type='text'] {
+    width: 10rem;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-left: 5rem;
+}
+
+.update-account-details input[type='password'] {
+    width: 10rem;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-left: 5rem;
+}
+
+.adjust-right-admission {
+    margin-right: 5rem;
+}
+
+.update-other {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+}
+
+.update-other input[type='file'] {
+    margin-bottom: 1rem;
+}
+
+.img-other {
+    width: 20rem;
+    height: 10rem;
+    margin-bottom: 1rem;
+}
+
+.div-submit {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-submit {
+    padding: 0.5rem;
+    width: 8rem;
+    background-color: #973535;
+    color: white;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 1rem;
+}
+  
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}

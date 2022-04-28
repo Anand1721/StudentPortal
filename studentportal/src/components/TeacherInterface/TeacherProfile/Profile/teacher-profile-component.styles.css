@@ -1,0 +1,19 @@
+.profile-comp {
+    background-color: white;    
+    box-shadow: 6px 6px 10px 0 rgb(0 0 0 / 20%);
+    width: 83%;
+    padding: 1.5rem;
+    height: 20.6em;
+    margin-bottom: 1.5rem;
+}
+
+.dp {
+    width: 6.8rem;
+    height: 6.8rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.profile-details {
+    font-weight: normal;
+}

@@ -1,0 +1,22 @@
+.main-page {
+    width: 100%;
+    height: 100%;
+    background-color: #eae2e2;
+    position: fixed;
+    top: 5em;
+    left: 0em;
+    right: 0em;
+    bottom: 2em;
+    z-index: 0;
+}
+
+.tab-content-admin {
+    position: fixed;
+    top: 8em;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #eae2e2;
+    padding: 1.5rem;
+    overflow-y: hidden;
+}

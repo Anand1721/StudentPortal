@@ -1,0 +1,53 @@
+.task-component-div {
+    background-color: #e2e0e0;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.task-component-h2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0rem;
+    font-weight: normal;
+}
+
+.first {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.second {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.del-icon {
+    margin-left: 1rem;
+    width: 1.3rem;
+    height: 1.3rem;
+    padding: 0.5rem;
+}
+
+.del-icon:hover {
+    width: 1.5rem;
+    height: 1.5rem;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.right {
+    padding-right: 2rem;
+    padding-bottom: 0.5rem;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.task-component-div:hover {
+    background-color: #D3D3D3;
+}

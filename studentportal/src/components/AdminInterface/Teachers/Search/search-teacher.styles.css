@@ -1,0 +1,105 @@
+.teacher-search-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 36%;
+    margin-left: 1.5rem;
+}
+
+.text-search {
+    padding: 0.5rem;
+}
+
+.btn-search {
+    background-color: #973535;
+    color: white;
+    padding: 0.5rem;
+    width: 5rem;
+}
+
+.search-basic-details {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}
+
+.search-other-details {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}
+
+.search-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.search-basic-details input[type='text'] {
+    width: 10rem;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-left: 5rem;
+}
+
+.search-other-details input[type='text'] {
+    width: 10rem;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-left: 5rem;
+}
+
+.search-other {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+}
+
+.search-other input[type='file'] {
+    margin-bottom: 1rem;
+}
+
+.img-other {
+    width: 20rem;
+    height: 10rem;
+    margin-bottom: 1rem;
+}
+
+.srch-div {
+    width: 40%;
+}
+
+p {
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 1rem;
+}
+  
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
